@@ -51,7 +51,7 @@ get_header();
 			</aside>
 
 		</div> <!-- container -->
-	</div> <!-- page-section -->
+	</section> <!-- page-section -->
 	
 
 <?php get_footer(); ?>

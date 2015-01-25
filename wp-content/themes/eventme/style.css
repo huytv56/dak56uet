@@ -1,5 +1,5 @@
 /*
-Theme Name: Eventme (shared on wplocker.com)
+Theme Name: Eventme
 Theme URI: http://ovatheme.com
 Version: 1.0
 Description: Created by <a href="http://ovatheme.com">ovatheme</a>
@@ -3650,4 +3650,22 @@ p:empty { display: none; }
 }
 .directions .btn-theme{
     margin-top: 30px;
+}
+
+/* ----------------------- */
+/* nf customer css */
+/* ----------------------- */
+/* menu bar */
+.header .navigation li a{ font-weight: 500;}
+.main-slider .slide .slide-image:before { background: none;}
+#about .container h4.media-heading{ color: #0055cc;}
+.timeline-tabs .nav-pills > li.active > a { background-color: #0055cc;}
+.btn-theme:hover, .btn-theme:focus, .btn-theme:active, .btn-theme.active, .open .dropdown-toggle.btn-theme { background-color: #0055cc;}
+.blog-head .section-title { color: #0055cc;}
+.do-up .img-responsive {width: auto;height: 350px;max-width: 255px;}
+
+
+/* Footer */
+.wide .footer, .boxed .footer > .container {
+    padding: 20px 0;
 }

@@ -1,0 +1,1557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eventme\n"
+"POT-Creation-Date: 2014-07-11 09:23+0700\n"
+"PO-Revision-Date: 2015-01-25 10:41+0700\n"
+"Last-Translator: nolife <kakh2qp@gmail.com>\n"
+"Language-Team: Ovatheme <contact@ovatheme.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../blog_template.php:57 ../index.php:54 ../page.php:50
+#: ../single-schedule.php:58 ../single.php:45
+msgid " 0 comment"
+msgstr " 0 bình luận"
+
+#: ../blog_template.php:57 ../index.php:54 ../page.php:50
+#: ../single-schedule.php:58 ../single.php:45
+msgid " 1 comment"
+msgstr " 1 bình luận"
+
+#: ../blog_template.php:117 ../index.php:114 ../single-schedule.php:149
+#: ../single.php:113
+msgid "Sorry, no posts matched your criteria."
+msgstr "Xin lỗi, không có bài phù hợp tiêu chí của bạn."
+
+#: ../blog_template.php:132
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../blog_template.php:133
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../comments.php:10
+msgid "0 Comment"
+msgstr "0 Bình luận"
+
+#: ../comments.php:10
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: ../comments.php:10
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: ../comments.php:25
+msgid "Comment navigation"
+msgstr "Chuyển hướng nhận xét"
+
+#: ../comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Comments cũ"
+
+#: ../comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới &rarr;"
+
+#: ../comments.php:32
+msgid "Comments are closed."
+msgstr "bình luận đã ​​đóng."
+
+#: ../comments.php:40
+msgid "Comment Form"
+msgstr "Phiếu góp ý"
+
+#: ../comments.php:40
+msgid "<h4>"
+msgstr "<H4>"
+
+#: ../comments.php:44 ../functions.php:383
+msgid "Name"
+msgstr "Tên"
+
+#: ../comments.php:45
+msgid "Website"
+msgstr "Trang web"
+
+#: ../comments.php:46
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:50
+msgid "Your Message"
+msgstr "Thông điệp của bạn"
+
+#: ../comments.php:53
+msgid "Submit"
+msgstr "Gửi"
+
+#: ../functions.php:30 ../functions.php:32
+msgid "Sidebar right"
+msgstr "Sidebar bên phải"
+
+#: ../functions.php:82
+msgid "Main Navigation Menu"
+msgstr "Main Menu"
+
+#: ../functions.php:83
+msgid "Secondary Navigation Menu"
+msgstr "Secondary Menu"
+
+#: ../functions.php:264
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:273
+msgid "(Edit)"
+msgstr "(sửa)"
+
+#: ../functions.php:282
+msgid "Your comment is awaiting moderation."
+msgstr "Cảm nhận của bạn đang chờ kiểm duyệt."
+
+#: ../functions.php:383
+msgid "Phone: "
+msgstr "Điện thoạ"
+
+#: ../functions.php:494 ../framework/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: ../functions.php:495 ../framework/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: ../functions.php:496 ../framework/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: ../functions.php:497
+msgid "Something went wrong with the plugin API."
+msgstr "Một cái gì đó đã đi sai với các plugin API."
+
+#: ../functions.php:508 ../framework/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: ../functions.php:509 ../framework/class-tgm-plugin-activation.php:171
+#: ../framework/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: ../functions.php:510
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %s"
+
+#: ../page.php:64
+msgid "Sorry, no pages matched your criteria."
+msgstr "Xin lỗi, không có các trang phù hợp với tiêu chí của bạn."
+
+#: ../single-schedule.php:15
+msgid "Schedule Heading"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Một cái gì đó đã đi sai."
+
+#: ../framework/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Quay trở lại bảng điều khiển"
+
+#: ../framework/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr "Các plugin sau đây đã được kích hoạt thành công:"
+
+#: ../framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#: ../framework/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Bỏ qua thông báo này"
+
+#: ../framework/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Liên kết bên ngoài"
+
+#: ../framework/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Repository cá nhân"
+
+#: ../framework/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Trước khi đóng gói"
+
+#: ../framework/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Nguồn từ WordPress"
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Cần thiết"
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: ../framework/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Chưa được cài đặt"
+
+#: ../framework/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Cài đặt Nhưng Không hoạt"
+
+#: ../framework/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../framework/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Nguồn"
+
+#: ../framework/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Kiểu"
+
+#: ../framework/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ../framework/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Đặt"
+
+#: ../framework/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: ../framework/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Cài đặt gói phần mềm không có sẵn."
+
+#: ../framework/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Tải về cài đặt gói từ <span class=\"code\">%s</span> &#8230;"
+
+#: ../framework/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Giải nén gói &#8230;"
+
+#: ../framework/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Cài đặt các plugin &#8230;"
+
+#: ../framework/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin cài đặt không thành công."
+
+#: ../framework/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin cài đặt thành công."
+
+#: ../framework/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Kích hoạt Plugin thất bại."
+
+#: ../framework/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt là bắt đầu. Quá trình này có thể mất một thời "
+"gian trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: ../framework/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Tất cả cài đặt và kích hoạt đã được hoàn thành."
+
+#: ../framework/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt sẽ bắt đầu. Quá trình này có thể mất một thời gian trên "
+"một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: ../framework/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi trong khi cài đặt %1$s : <strong> %2$s </strong>."
+
+#: ../framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Việc cài đặt %1$s lỗi."
+
+#: ../framework/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s đã cài thành công."
+
+#: ../framework/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã được hoàn thành."
+
+#: ../framework/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: ../framework/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Quay trở lại Dashboard"
+
+#: ../framework/post_type.php:8 ../framework/post_type.php:10
+msgid "Slideshows"
+msgstr "Trình chiếu"
+
+#: ../framework/post_type.php:9 ../framework/post_type.php:11
+msgid "Slide"
+msgstr "Slide"
+
+#: ../framework/post_type.php:12
+msgid "Add New slide"
+msgstr "Thêm Slide mới"
+
+#: ../framework/post_type.php:13
+msgid "Add New Slide"
+msgstr "Thêm New slide"
+
+#: ../framework/post_type.php:14
+msgid "New Slide"
+msgstr "New Slide"
+
+#: ../framework/post_type.php:15
+msgid "Edit Slide"
+msgstr "Chỉnh sửa slide"
+
+#: ../framework/post_type.php:16
+msgid "View Slide"
+msgstr "Xem Slide"
+
+#: ../framework/post_type.php:17
+msgid "All Slides"
+msgstr "All Slides"
+
+#: ../framework/post_type.php:18
+msgid "Search Slides"
+msgstr "Tìm kiếm Slides"
+
+#: ../framework/post_type.php:19
+msgid "Parent Slides:"
+msgstr "Slides mẹ:"
+
+#: ../framework/post_type.php:20
+msgid "No Slides found."
+msgstr "Không Slides được tìm thấy."
+
+#: ../framework/post_type.php:21
+msgid "No Slides found in Trash."
+msgstr "Không Slides tìm thấy trong thùng rác."
+
+#: ../framework/post_type.php:49 ../framework/post_type.php:50
+#: ../framework/post_type.php:51 ../framework/post_type.php:52
+msgid "Event Register List"
+msgstr "Danh sách đăng ký"
+
+#: ../framework/post_type.php:53 ../framework/post_type.php:54
+msgid "Add New Register"
+msgstr "Thêm mới Đăng ký"
+
+#: ../framework/post_type.php:55
+msgid "New Register"
+msgstr "Đăng ký mới"
+
+#: ../framework/post_type.php:56
+msgid "Edit Register"
+msgstr "Sửa Đăng ký"
+
+#: ../framework/post_type.php:57
+msgid "View Register"
+msgstr "Xem Đăng ký"
+
+#: ../framework/post_type.php:58
+msgid "All Registers"
+msgstr "Tất cả Đăng ký"
+
+#: ../framework/post_type.php:59
+msgid "Search Registers"
+msgstr "Tìm kiếm Đăng ký"
+
+#: ../framework/post_type.php:60
+msgid "Parent Registers:"
+msgstr "Đăng ký của phụ huynh:"
+
+#: ../framework/post_type.php:61
+msgid "No Registers found."
+msgstr "Không Đăng ký được tìm thấy."
+
+#: ../framework/post_type.php:62
+msgid "No Registers found in Trash."
+msgstr "Không Đăng ký được tìm thấy trong thùng rác."
+
+#: ../framework/post_type.php:90 ../framework/post_type.php:91
+#: ../framework/post_type.php:92
+msgid "Schedule"
+msgstr "Mỗi tuần 1 dấu ấn"
+
+#: ../framework/post_type.php:93
+msgid "Parent Schedule:"
+msgstr ""
+
+#: ../framework/post_type.php:94
+msgid "All Schedules"
+msgstr "Tất cả"
+
+#: ../framework/post_type.php:95
+msgid "View Schedule"
+msgstr "Xem"
+
+#: ../framework/post_type.php:96 ../framework/post_type.php:97
+msgid "Add New Schedule"
+msgstr "Thêm mới"
+
+#: ../framework/post_type.php:98
+msgid "Edit Schedule"
+msgstr "Chỉnh sửa"
+
+#: ../framework/post_type.php:99
+msgid "Update Schedule"
+msgstr "Cập nhật"
+
+#: ../framework/post_type.php:100
+msgid "Search Schedules"
+msgstr "Tìm kiếm"
+
+#: ../framework/post_type.php:101
+msgid "No Schedules found"
+msgstr "Không tìm thấy"
+
+#: ../framework/post_type.php:102
+msgid "No Schedules found in Trash"
+msgstr "Không tìm thấy trong Thùng rác"
+
+#: ../framework/post_type.php:105
+msgid "schedule"
+msgstr ""
+
+#: ../framework/post_type.php:106
+msgid "Schedule information pages"
+msgstr "Trang thông tin"
+
+#: ../framework/post_type.php:131 ../framework/post_type.php:132
+#: ../framework/post_type.php:141
+msgid "Skill"
+msgstr "Skill"
+
+#: ../framework/post_type.php:133
+msgid "Search Skills"
+msgstr "Tìm kiếm Skills"
+
+#: ../framework/post_type.php:134
+msgid "All Skills"
+msgstr "Tất cả Kỹ năng"
+
+#: ../framework/post_type.php:135
+msgid "Parent Skill"
+msgstr "Skill mẹ"
+
+#: ../framework/post_type.php:136
+msgid "Parent Skill:"
+msgstr "Skill của phụ huynh:"
+
+#: ../framework/post_type.php:137
+msgid "Edit Skill"
+msgstr "Sửa Skill"
+
+#: ../framework/post_type.php:138
+msgid "Update Skill"
+msgstr "Update Skill"
+
+#: ../framework/post_type.php:139
+msgid "Add New Skill"
+msgstr "Thêm New Skill"
+
+#: ../framework/post_type.php:140
+msgid "New Skill Name"
+msgstr "Skill New Name"
+
+#: ../framework/post_type.php:164 ../framework/post_type.php:166
+msgid "Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:165 ../framework/post_type.php:167
+msgid "Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:168 ../framework/post_type.php:169
+msgid "Add New Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:170
+msgid "New Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:171
+msgid "Edit Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:172
+msgid "View Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:173
+msgid "All Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:174
+msgid "Search Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:175
+msgid "Parent Speakers:"
+msgstr ""
+
+#: ../framework/post_type.php:176
+msgid "No Speakers found."
+msgstr "Không Loa được tìm thấy."
+
+#: ../framework/post_type.php:177
+msgid "No Speakers found in Trash."
+msgstr "Không Loa được tìm thấy trong thùng rác."
+
+#: ../framework/post_type.php:205 ../framework/post_type.php:207
+msgid "Testimonials"
+msgstr "Đánh giá"
+
+#: ../framework/post_type.php:206 ../framework/post_type.php:208
+msgid "Testimonial"
+msgstr "Đánh giá"
+
+#: ../framework/post_type.php:209 ../framework/post_type.php:210
+msgid "Add New Testimonial"
+msgstr "Thêm Đánh giá"
+
+#: ../framework/post_type.php:211
+msgid "New Testimonial"
+msgstr "Đánh giá mới"
+
+#: ../framework/post_type.php:212
+msgid "Edit Testimonial"
+msgstr "Sửa Đánh giá"
+
+#: ../framework/post_type.php:213
+msgid "View Testimonial"
+msgstr "Xem Đánh giá"
+
+#: ../framework/post_type.php:214
+msgid "All Testimonials"
+msgstr "Tất cả Đánh giá"
+
+#: ../framework/post_type.php:215
+msgid "Search Testimonials"
+msgstr "Tìm kiếm Đánh giá"
+
+#: ../framework/post_type.php:216
+msgid "Parent Testimonials:"
+msgstr "Đánh giá:"
+
+#: ../framework/post_type.php:217
+msgid "No Testimonials found."
+msgstr "Khôngtìm thấy Đánh giá."
+
+#: ../framework/post_type.php:218
+msgid "No Testimonials found in Trash."
+msgstr "Không tìm thấy Đánh giá trong thùng rác."
+
+#: ../framework/shortcode.php:405 ../framework/shortcode.php:666
+msgid "by"
+msgstr "bởi"
+
+#: ../framework/shortcode.php:658
+msgid "0"
+msgstr "0"
+
+#: ../framework/shortcode.php:658
+msgid "1"
+msgstr " "
+
+#: ../framework/shortcode.php:761 ../framework/shortcode_slideshow.php:131
+#: ../framework/shortcode_slideshow.php:179
+msgid "Register"
+msgstr "Đăng ký"
+
+#: ../framework/shortcode.php:790
+msgid "get directions"
+msgstr "nhận hướng dẫn"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Years"
+msgstr "Năm"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Months"
+msgstr "Tháng"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Weeks"
+msgstr "Tuần"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Days"
+msgstr "Ngày"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Hours"
+msgstr "Giờ"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Minutes"
+msgstr "Phút"
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Seconds"
+msgstr "Giây"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Year"
+msgstr "Năm"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Month"
+msgstr "Tháng"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Week"
+msgstr "Tuần"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Day"
+msgstr "Ngày"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Hour"
+msgstr "Giờ"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Minute"
+msgstr "Phút"
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Second"
+msgstr "Giây"
+
+#: ../framework/shortcode_slideshow.php:63
+#: ../framework/shortcode_slideshow.php:66
+#: ../framework/shortcode_slideshow.php:99
+#: ../framework/shortcode_slideshow.php:101
+msgid "Register Now"
+msgstr "Ghi danh ngay bây giờ"
+
+#: ../framework/shortcode_slideshow.php:139
+msgid "Name *"
+msgstr "Tên *"
+
+#: ../framework/shortcode_slideshow.php:141
+msgid "Name is required"
+msgstr "Yêu cầu nhập tên"
+
+#: ../framework/shortcode_slideshow.php:148
+msgid "Email *"
+msgstr "Email *"
+
+#: ../framework/shortcode_slideshow.php:149
+msgid "Email is required."
+msgstr "Email là bắt buộc."
+
+#: ../framework/shortcode_slideshow.php:155
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: ../framework/shortcode_slideshow.php:156
+msgid "Phone is required."
+msgstr "Điện thoại được yêu cầu."
+
+#: ../framework/shortcode_slideshow.php:162
+msgid "Message *"
+msgstr "Tin nhắn *"
+
+#: ../framework/shortcode_slideshow.php:163
+msgid "Message is required."
+msgstr "Thông báo được yêu cầu."
+
+#: ../framework/shortcode_slideshow.php:168
+msgid "Your request send! We will be in touch soon."
+msgstr "Yêu cầu của bạn gửi! Chúng tôi sẽ liên lạc sớm."
+
+#: ../framework/shortcode_slideshow.php:169
+msgid "Error"
+msgstr "Lỗi"
+
+#: ../framework/shortcode_slideshow.php:178
+msgid "Close"
+msgstr "Đóng"
+
+#: ../framework/Custom-Metaboxes/init.php:258
+msgid "Clear"
+msgstr "Rõ ràng"
+
+#: ../framework/Custom-Metaboxes/init.php:259
+msgid "Default"
+msgstr "Mặc định"
+
+#: ../framework/Custom-Metaboxes/init.php:260
+msgid "Select Color"
+msgstr "Chọn màu"
+
+#: ../framework/Custom-Metaboxes/init.php:261
+msgid "Current Color"
+msgstr "Màu hiện tại"
+
+#: ../framework/Custom-Metaboxes/init.php:288
+msgid "Select / Deselect All"
+msgstr "Chọn / Bỏ chọn tất cả"
+
+#: ../framework/Custom-Metaboxes/init.php:1177
+msgid "Save"
+msgstr "Lưu"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:32
+msgid "oEmbed Post format media"
+msgstr "oEmbed viết phương tiện truyền thông định dạng"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:33
+msgid ""
+"Enter a audio, youtube, twitter, or instagram URL. Supports services listed "
+"at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+"Nhập một âm thanh, youtube, twitter, hoặc URL instagram. Hỗ trợ các dịch vụ "
+"được liệt kê tại <a href=\"http://codex.wordpress.org/Embeds\"> http://codex."
+"wordpress.org/Embeds </a>."
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:42
+msgid "Schedule Field"
+msgstr "Dòng lịch"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:50
+#: ../framework/Custom-Metaboxes/metabox-functions.php:51
+msgid "Time"
+msgstr "Thời gian"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:56
+#: ../framework/Custom-Metaboxes/metabox-functions.php:57
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:67
+msgid "Speaker Field"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:75
+#: ../framework/Custom-Metaboxes/metabox-functions.php:76
+msgid "Job"
+msgstr "Công việc"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:82
+#: ../framework/Custom-Metaboxes/metabox-functions.php:83
+msgid "Mail Adress"
+msgstr "Địa chỉ email"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:89
+#: ../framework/Custom-Metaboxes/metabox-functions.php:90
+msgid "Facebook Adress"
+msgstr "Địa chỉ Facebook"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:96
+#: ../framework/Custom-Metaboxes/metabox-functions.php:97
+msgid "Twitter Adress"
+msgstr "Twitter Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:103
+#: ../framework/Custom-Metaboxes/metabox-functions.php:104
+msgid "Linkedin Adress"
+msgstr "Linkedin Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:110
+#: ../framework/Custom-Metaboxes/metabox-functions.php:111
+msgid "Pinterest Adress"
+msgstr "Pinterest Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:116
+#: ../framework/Custom-Metaboxes/metabox-functions.php:117
+msgid "Google Plus Adress"
+msgstr "Google Plus Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:122
+#: ../framework/Custom-Metaboxes/metabox-functions.php:123
+msgid "Tumblr Adress"
+msgstr "Tumblr Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:128
+#: ../framework/Custom-Metaboxes/metabox-functions.php:129
+msgid "Instagram Adress"
+msgstr "Instagram Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:134
+#: ../framework/Custom-Metaboxes/metabox-functions.php:135
+msgid "VK Adress"
+msgstr "VK Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:140
+#: ../framework/Custom-Metaboxes/metabox-functions.php:141
+msgid "Flickr Adress"
+msgstr "Flickr Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:146
+#: ../framework/Custom-Metaboxes/metabox-functions.php:147
+msgid "MySpace Adress"
+msgstr "MySpace Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:152
+#: ../framework/Custom-Metaboxes/metabox-functions.php:153
+msgid "Youtube Adress"
+msgstr "Youtube Địa chỉ"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:166
+msgid "SEO Fields"
+msgstr "SEO Fields"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:174
+msgid "SEO title"
+msgstr "SEO tiêu đề"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:175
+msgid "Title for SEO (optional)"
+msgstr "Tiêu đề cho SEO (tùy chọn)"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:180
+#: ../framework/redux/sample-config.php:287
+msgid "SEO Keywords"
+msgstr "Từ khóa SEO"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:181
+msgid "SEO keywords (optional)"
+msgstr "SEO từ khóa (tùy chọn)"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:186
+#: ../framework/redux/sample-config.php:280
+msgid "SEO Description"
+msgstr "SEO Mô tả"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:187
+msgid "SEO description (optional)"
+msgstr "Mô tả SEO (tùy chọn)"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:196
+msgid "Slideshow Field"
+msgstr "Dòng Slideshow"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:204
+#: ../framework/Custom-Metaboxes/metabox-functions.php:205
+msgid "End Date"
+msgstr "Cuối Ngày"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:210
+msgid "Button Register Link"
+msgstr "Đăng ký nút liên kết"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:211
+msgid "You can insert a your link else use popup default register"
+msgstr ""
+"Bạn có thể chèn một liên kết của bạn khác sử dụng sổ popup mặc định đăng ký"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:216
+msgid "Template"
+msgstr "Mẫu"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:217
+msgid "Select an option"
+msgstr "Chọn tùy chọn"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:221
+msgid "Template 1"
+msgstr "Template 1"
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:222
+msgid "Template 2"
+msgstr "Khuôn mẫu 2"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Bạn vui lòng thử lại"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr "Xóa Nhúng"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Không có kết quả oEmbed Đối với mặt %s . Xem thêm thông tin tại"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr "Thêm Nhóm"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr "Xóa Nhóm"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr "Thêm Row"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr "Hủy bỏ"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr "Không có điều khoản"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr "Thêm hoặc Upload File"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr "Xóa ảnh"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr "Tập tin:"
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr "Tải về"
+
+#: ../framework/redux/sample-config.php:114
+msgid "Section via hook"
+msgstr "Mục qua móc"
+
+#: ../framework/redux/sample-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Tùy chỉnh & # 8220; %s & # 8221;"
+
+#: ../framework/redux/sample-config.php:210
+#, php-format
+msgid "By %s"
+msgstr "Bởi %s"
+
+#: ../framework/redux/sample-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: ../framework/redux/sample-config.php:212
+msgid "Tags"
+msgstr "Từ khóa"
+
+#: ../framework/redux/sample-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr "http://codex.wordpress.org/Child_Themes"
+
+#: ../framework/redux/sample-config.php:243
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: ../framework/redux/sample-config.php:249
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: ../framework/redux/sample-config.php:250
+msgid "Upload a logo image. The best logo 173x49px"
+msgstr "Tải lên một hình ảnh logo. Logo 173x49px tốt nhất"
+
+#: ../framework/redux/sample-config.php:257
+msgid "Custom Favicon"
+msgstr "Tuỳ chỉnh Favicon"
+
+#: ../framework/redux/sample-config.php:258
+msgid "Upload your Favicon. The best size is 32x32 px"
+msgstr "Tải Favicon của bạn. Các kích thước tốt nhất là 32x32 px"
+
+#: ../framework/redux/sample-config.php:265
+msgid "Apple touch icon"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:266
+msgid "Upload your Apple touch icon. The best size is 144x144 px"
+msgstr ""
+"Tải lên biểu tượng của Apple liên lạc của bạn. Các kích thước tốt nhất là "
+"144x144 px"
+
+#: ../framework/redux/sample-config.php:273
+msgid "Google Analytics Javascript"
+msgstr "Google Analytics Javascript"
+
+#: ../framework/redux/sample-config.php:274
+msgid ""
+"Insert javascript of Google Analytics. You dont insert <script></script>"
+msgstr ""
+"Chèn javascript của Google Analytics. Bạn không chèn <script> </ script>"
+
+#: ../framework/redux/sample-config.php:281
+msgid ""
+"Paste your SEO Description. This will be added into the meta tag description "
+"in header"
+msgstr ""
+"Dán Description SEO. Điều này sẽ được bổ sung vào các mô tả thẻ meta trong "
+"tiêu đề"
+
+#: ../framework/redux/sample-config.php:282
+msgid "This is seo description"
+msgstr "Đây là seo mô tả"
+
+#: ../framework/redux/sample-config.php:288
+msgid ""
+"Paste your SEO Keywords. This will be added into the meta tag keywords in "
+"header"
+msgstr ""
+"Dán SEO Từ khóa của bạn. Điều này sẽ được bổ sung vào các từ khóa thẻ meta "
+"trong tiêu đề"
+
+#: ../framework/redux/sample-config.php:289
+msgid "Seo Keywords"
+msgstr "Seo Từ khóa"
+
+#: ../framework/redux/sample-config.php:294
+msgid "Customize Css"
+msgstr "Tùy chỉnh Css"
+
+#: ../framework/redux/sample-config.php:295
+msgid ""
+"Please dont insert <style></style> here. For instance header{background:"
+"#ccc;}"
+msgstr ""
+"Xin vui lòng không chèn <style> </ style> ở đây. Ví dụ tiêu đề {background: "
+"#ccc;}"
+
+#: ../framework/redux/sample-config.php:300
+msgid "Customize Jaascript"
+msgstr "Tùy chỉnh Jaascript"
+
+#: ../framework/redux/sample-config.php:301
+msgid ""
+"Please do not insert <script></script> here. For instance jQuery(document)."
+"ready(function($){\n"
+"<br/>// insert code here<br/>\n"
+"});"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:312
+msgid "Style Settings"
+msgstr "Cài đặt phong cách"
+
+#: ../framework/redux/sample-config.php:317
+msgid "Reload Spin"
+msgstr "Nạp lại spin"
+
+#: ../framework/redux/sample-config.php:318
+msgid "Choose icon or image for reload. You also can choose no reload"
+msgstr ""
+"Chọn biểu tượng hoặc hình ảnh cho tải lại. Bạn cũng có thể chọn không tải lại"
+
+#: ../framework/redux/sample-config.php:325
+msgid "Reload Icon"
+msgstr "Reload Biểu tượng"
+
+#: ../framework/redux/sample-config.php:327
+msgid ""
+"You can insert FontAwesome here. Find icon font here: <a target=\"_blank\" "
+"href=\"http://fontawesome.io/icons/\">http://fontawesome.io/icons/</a>"
+msgstr ""
+"Bạn có thể chèn FontAwesome đây. Tìm phông chữ biểu tượng ở đây: <a target="
+"\"_blank\" href=\"http://fontawesome.io/icons/\"> http://fontawesome.io/"
+"icons/ </a>"
+
+#: ../framework/redux/sample-config.php:334
+msgid "Reload Image"
+msgstr "Reload Image"
+
+#: ../framework/redux/sample-config.php:336
+msgid "You can insert an image."
+msgstr "Bạn có thể chèn một hình ảnh."
+
+#: ../framework/redux/sample-config.php:343
+msgid "Body Font"
+msgstr "Body Font"
+
+#: ../framework/redux/sample-config.php:344
+msgid "Select a primary font for site"
+msgstr "Chọn một phông chữ chính cho trang web"
+
+#: ../framework/redux/sample-config.php:362
+msgid "Font Heading (Option)"
+msgstr "Heading Font (Option)"
+
+#: ../framework/redux/sample-config.php:363
+msgid ""
+"Select a google font heading: h1,h2,h3,h4,h5,h6. <br/> Note To use "
+"nexa_boldregular font, you have to hit Reset Section button."
+msgstr ""
+"Chọn một font tiêu đề google: h1, h2, h3, h4, h5, h6. <br/> Lưu ý Để sử dụng "
+"font nexa_boldregular, bạn phải nhấn nút Mục Reset."
+
+#: ../framework/redux/sample-config.php:380
+msgid "Select layout for page"
+msgstr "Chọn bố cục cho trang"
+
+#: ../framework/redux/sample-config.php:390
+msgid "Select pattern for boxed layout"
+msgstr "Chọn mẫu cho bố trí đóng hộp"
+
+#: ../framework/redux/sample-config.php:392
+msgid "You should upload an image with format *.png"
+msgstr "Bạn nên tải lên một hình ảnh với định dạng * .png"
+
+#: ../framework/redux/sample-config.php:399
+msgid "Select text direction"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:408
+msgid "Select theme color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:416
+msgid "Select menu color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:425
+msgid "Header Sticky Color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:426
+#: ../framework/redux/sample-config.php:438
+#: ../framework/redux/sample-config.php:446
+msgid "Gives you the RGBA color."
+msgstr "Cung cấp cho bạn những màu RGBA."
+
+#: ../framework/redux/sample-config.php:437
+msgid "Social Background Color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:445
+msgid "Parallax Overlay"
+msgstr "Parallax Overlay"
+
+#: ../framework/redux/sample-config.php:460
+msgid "Blog & Footer Settings"
+msgstr "Blog & Footer Cài đặt"
+
+#: ../framework/redux/sample-config.php:465
+msgid "Blog Heading"
+msgstr "Blog Heading"
+
+#: ../framework/redux/sample-config.php:466
+msgid "Insert Blog Heading"
+msgstr "Insert Blog Heading"
+
+#: ../framework/redux/sample-config.php:472
+msgid "Blog Subtitle"
+msgstr "Blog Subtitle"
+
+#: ../framework/redux/sample-config.php:473
+msgid "Insert Blog Subtitle"
+msgstr "Insert Blog Subtitle"
+
+#: ../framework/redux/sample-config.php:480
+msgid "Insert Footer"
+msgstr "Insert Footer"
+
+#: ../framework/redux/sample-config.php:483
+msgid ""
+" <div class=\"row\">\n"
+"                            <div class=\"col-sm-12 text-center social-icons"
+"\">\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-facebook\"></i></a>\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-twitter\"></i></a>\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-linkedin\"></i></a>\n"
+"                            </div>\n"
+"                            <div class=\"col-sm-12 text-center\">@ 2014 "
+"EventME - An One Page Event Manager Theme | Developed by <a href=\"http://"
+"jakjim.com\">jThemes Studio</a></div>\n"
+"                            </div>\n"
+"                            "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:498
+msgid "Slideshow Settings"
+msgstr "Cài đặt Slideshow"
+
+#: ../framework/redux/sample-config.php:503
+msgid "Insert Timezone"
+msgstr "Insert Timezone"
+
+#: ../framework/redux/sample-config.php:504
+msgid ""
+"The timezone (hours or minutes from GMT) for the target times. <br/> For "
+"instance:<br/> If Timezone is UTC-9:00 you have to insert -9 <br/>If "
+"Timezone is UTC-9:30, you have to insert -9*60+30=-570. <br/>Read about UTC "
+"Time:  <a href=\"http://en.wikipedia.org/wiki/List_of_UTC_time_offsets\" "
+"target=\"_blank\"> http://en.wikipedia.org/wiki/List_of_UTC_time_offsets</a>"
+msgstr ""
+"Các múi giờ (giờ hoặc phút GMT) cho các lần mục tiêu. <br/> Ví dụ: Nếu <br/> "
+"Timezone là UTC-9: 00 bạn phải chèn -9 <br/> Nếu Timezone là UTC-9: 30, bạn "
+"phải chèn -9 * 60 + 30 = - 570. <br/> đọc về UTC Time: <a href=\"http://en."
+"wikipedia.org/wiki/List_of_UTC_time_offsets\" target=\"_blank\"> http://en."
+"wikipedia.org/wiki/ List_of_UTC_time_offsets </a>"
+
+#: ../framework/redux/sample-config.php:510
+msgid "Display Format"
+msgstr "Định dạng hiển thị"
+
+#: ../framework/redux/sample-config.php:511
+msgid ""
+"Display Format: dHMS. <br/> d: Day <br/> H: Hour <br/> M: Month <br/> S: "
+"Second. <br/>You can insert HMS or dHM or dH. default dHMS"
+msgstr ""
+"Định dạng hiển thị: dHMS. <br/> d: ngày <br/> H: Giờ <br/> M: Tháng <br/> S: "
+"Thứ hai. <br/> Bạn có thể chèn HMS hoặc DHM hay dH. dHMS mặc định"
+
+#: ../framework/redux/sample-config.php:517
+msgid "Display Navigation"
+msgstr "Display Navigation"
+
+#: ../framework/redux/sample-config.php:518
+msgid "Allow to display Navigation"
+msgstr "Cho phép hiển thị Navigation"
+
+#: ../framework/redux/sample-config.php:525
+msgid "Display Register Button"
+msgstr "Hiển thị nút Đăng ký"
+
+#: ../framework/redux/sample-config.php:526
+msgid "Allow to display Register Button"
+msgstr "Cho phép hiển thị nút Đăng ký"
+
+#: ../framework/redux/sample-config.php:533
+msgid "Slide Count"
+msgstr "Đếm trượt"
+
+#: ../framework/redux/sample-config.php:542
+msgid "Schedule Settings"
+msgstr "Lịch trình Cài đặt"
+
+#: ../framework/redux/sample-config.php:547
+msgid "Filter Order By"
+msgstr "Lọc Sắp xếp theo"
+
+#: ../framework/redux/sample-config.php:548
+msgid "Display Filter Navigation Order By"
+msgstr "Display Filter Navigation Sắp xếp theo"
+
+#: ../framework/redux/sample-config.php:565
+msgid "Filter Order"
+msgstr "Lọc theo thứ tự"
+
+#: ../framework/redux/sample-config.php:566
+msgid "Display Filter Navigation  Order"
+msgstr "Display Filter Navigation Đặt hàng"
+
+#: ../framework/redux/sample-config.php:577
+msgid "Schedule Order By"
+msgstr "Sắp xếp theo lịch trình"
+
+#: ../framework/redux/sample-config.php:578
+msgid "Display Schedule Post Order By"
+msgstr "Hiển thị Schedule bài Sắp xếp theo"
+
+#: ../framework/redux/sample-config.php:595
+msgid "Schedule Order"
+msgstr "Lịch trình thứ tự"
+
+#: ../framework/redux/sample-config.php:596
+msgid "Display Schedule Post Order"
+msgstr "Hiển thị bài viết Schedule Order"
+
+#: ../framework/redux/sample-config.php:606
+#: ../framework/redux/sample-config.php:607
+msgid "Display Time"
+msgstr "Hiển thị Thời gian"
+
+#: ../framework/redux/sample-config.php:614
+#: ../framework/redux/sample-config.php:615
+msgid "Display Address"
+msgstr "Hiển thị Địa chỉ"
+
+#: ../framework/redux/sample-config.php:622
+msgid "Display View"
+msgstr "Hiển thị Xem"
+
+#: ../framework/redux/sample-config.php:630
+msgid "Display Author"
+msgstr "Hiển thị Tác giả"
+
+#: ../framework/redux/sample-config.php:638
+msgid "Character Count dipplay in intro description"
+msgstr "Đếm ký tự dipplay trong mô tả giới thiệu"
+
+#: ../framework/redux/sample-config.php:645
+msgid "Display Description Intro"
+msgstr "Hiển thị Mô tả Giới thiệu"
+
+#: ../framework/redux/sample-config.php:653
+msgid "Item count each tab"
+msgstr "Mục đếm từng tab"
+
+#: ../framework/redux/sample-config.php:662
+msgid "Speakers Settings"
+msgstr "Loa Cài đặt"
+
+#: ../framework/redux/sample-config.php:667
+msgid "Display Link to detail Speaker"
+msgstr "Hiển thị kết đến từng chi tiết Loa"
+
+#: ../framework/redux/sample-config.php:675
+msgid "Count character display in description"
+msgstr "Đếm ký tự hiển thị trong mô tả"
+
+#: ../framework/redux/sample-config.php:682
+msgid "Count Item"
+msgstr "Đếm mục"
+
+#: ../framework/redux/sample-config.php:689
+#: ../framework/redux/sample-config.php:748
+msgid "Select layout. Item Count in row"
+msgstr "Chọn bố cục. Đếm trong mục hàng"
+
+#: ../framework/redux/sample-config.php:706
+msgid "Subscribe Settings"
+msgstr "Theo dõi Cài đặt"
+
+#: ../framework/redux/sample-config.php:712
+msgid "Select background image for subscribe section"
+msgstr "Chọn ảnh nền cho phần đăng ký"
+
+#: ../framework/redux/sample-config.php:720
+msgid "Recent Post Settings"
+msgstr "Cài đặt bài gần đây"
+
+#: ../framework/redux/sample-config.php:725
+msgid "Item count display"
+msgstr "Mục hiển thị số đếm"
+
+#: ../framework/redux/sample-config.php:732
+msgid "Description character count"
+msgstr "Mô tả số nhân vật"
+
+#: ../framework/redux/sample-config.php:739
+msgid "Show author"
+msgstr "Hiện tác giả"
+
+#: ../framework/redux/sample-config.php:765
+msgid "Twitter Settings"
+msgstr "Cài đặt Twitter"
+
+#: ../framework/redux/sample-config.php:770
+msgid "Show twitter User"
+msgstr "Hiện twitter tài khoản"
+
+#: ../framework/redux/sample-config.php:777
+msgid "Consumer key"
+msgstr "Consumer key"
+
+#: ../framework/redux/sample-config.php:784
+msgid "Consumer key secret"
+msgstr "Người tiêu dùng khóa bí mật"
+
+#: ../framework/redux/sample-config.php:791
+msgid "Access token"
+msgstr "Access token"
+
+#: ../framework/redux/sample-config.php:798
+msgid "Access token secret"
+msgstr "Access token secret"
+
+#: ../framework/redux/sample-config.php:805
+msgid "Show twitter Count"
+msgstr "Hiện twitter Đếm"
+
+#: ../framework/redux/sample-config.php:812
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: ../framework/redux/sample-config.php:813
+msgid "Insert number time (ms) to deplay or false to not auto play"
+msgstr "Chèn thời gian số (ms) để deplay hay sai để không tự động play"
+
+#: ../framework/redux/sample-config.php:821
+msgid "Location Settings"
+msgstr "Cài đặt vị trí"
+
+#: ../framework/redux/sample-config.php:827
+msgid "Select background image for Location section"
+msgstr "Chọn ảnh nền cho phần Location"
+
+#: ../framework/redux/sample-config.php:841
+msgid "<strong>Theme URL:</strong> "
+msgstr "<Strong> Theme URL: </ strong> "
+
+#: ../framework/redux/sample-config.php:842
+msgid "<strong>Author:</strong> "
+msgstr "<Strong> Tác giả: </ strong> "
+
+#: ../framework/redux/sample-config.php:843
+msgid "<strong>Version:</strong> "
+msgstr "<Strong> Version: </ strong> "
+
+#: ../framework/redux/sample-config.php:847
+msgid "<strong>Tags:</strong> "
+msgstr "<Strong> Tags: </ strong> "
+
+#: ../framework/redux/sample-config.php:854
+#: ../framework/redux/sample-config.php:901
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: ../framework/redux/sample-config.php:870
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: ../framework/redux/sample-config.php:871
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+"Import và Export các thiết lập Redux Khung của bạn từ tập tin, văn bản hoặc "
+"URL."
+
+#: ../framework/redux/sample-config.php:887
+msgid "Theme Information"
+msgstr "Thông tin chủ đề"
+
+#: ../framework/redux/sample-config.php:888
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:912
+msgid "Theme Information 1"
+msgstr "Thông tin chủ đề 1"
+
+#: ../framework/redux/sample-config.php:913
+#: ../framework/redux/sample-config.php:919
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<P> Đây là nội dung tab, HTML được phép. </ P>"
+
+#: ../framework/redux/sample-config.php:918
+msgid "Theme Information 2"
+msgstr "Thông tin chủ đề 2"
+
+#: ../framework/redux/sample-config.php:923
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<P> Đây là những nội dung bên, HTML được phép. </ P>"
+
+#: ../framework/redux/sample-config.php:943
+#: ../framework/redux/sample-config.php:944
+msgid "Theme Options"
+msgstr "Tùy chọn Giao diện"
+
+#: ../framework/redux/sample-config.php:1043
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+"<P> Bạn có biết rằng Redux đặt một biến toàn cầu cho bạn? Để truy cập bất kỳ "
+"tùy chọn lưu của bạn từ bên trong mã của bạn, bạn có thể sử dụng biến toàn "
+"cầu của bạn: <strong> $ %1$s </ strong> </ p>"
+
+#: ../framework/redux/sample-config.php:1045
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+"<P> văn bản này được hiển thị trên bảng tùy chọn. Nó không phải là cần "
+"thiết, nhưng thông tin hơn là luôn luôn tốt hơn! Các lĩnh vực intro_text "
+"chấp nhận tất cả HTML. </ P>"
+
+#: ../framework/redux/sample-config.php:1049
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+"<P> văn bản này được hiển thị bên dưới bảng tùy chọn. Nó không phải là cần "
+"thiết, nhưng thông tin hơn là luôn luôn tốt hơn! Các lĩnh vực footer_text "
+"chấp nhận tất cả HTML. </ P>"

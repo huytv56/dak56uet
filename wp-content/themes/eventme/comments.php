@@ -40,7 +40,7 @@ if (post_password_required())
 
     $aria_req = ($req ? " aria-required='true'" : '');
     $comment_args = array(
-        'title_reply' => __('<h4 class="block-title">' . __('LEAVE A COMMENT', TEXT_DOMAIN) . '</h4><hr>', TEXT_DOMAIN),
+        'title_reply' => __('<h4 class="block-title">' . __('Bình luận', TEXT_DOMAIN) . '</h4><hr>', TEXT_DOMAIN),
         'fields' => apply_filters('comment_form_default_fields', array(
             'author' => '<div class="form-group">                                
                                 <div class="form-group"><input type="text" name="author" value="' . esc_attr($commenter['comment_author']) . '" ' . $aria_req . ' class="form-control" placeholder="'. __('Name',TEXT_DOMAIN) .'" /></div>',

@@ -184,7 +184,7 @@ function cmb_sample_metaboxes( array $meta_boxes ) {
             ),
             array(
                 'name' => __('SEO Description', TEXT_DOMAIN),
-                'desc' => __('SEO description (optional)<br><img src="http://www.lolinez.com/sg.jpg">', TEXT_DOMAIN),
+                'desc' => __('SEO description (optional)', TEXT_DOMAIN),
                 'id'   => $prefix . 'seo_description',
                 'type' => 'text',
             ),

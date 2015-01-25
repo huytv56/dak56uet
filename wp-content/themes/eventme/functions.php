@@ -514,23 +514,6 @@ function my_theme_register_required_plugins() {
             'name'                     => 'Redux Framework',
             'slug'                     => 'redux-framework',
             'required'                 => true,
-        ),
-        array(
-            'name'                     => 'Twitter Shortcode',
-            'slug'                     => 'twitter',
-            'required'                 => true,
-            'source'                   => get_template_directory() . '/framework/plugins/twitter.zip',
-        ),
-        array(
-            'name'                     => 'Mailchimp for wp',
-            'slug'                     => 'mailchimp-for-wp',
-            'required'                 => true,
-        ),
-        array(
-            'name'                     => 'WPBakery Visual Composer',
-            'slug'                     => 'js_composer',
-            'required'                 => true,
-            'source'                   => get_template_directory() . '/framework/plugins/js_composer.zip',
         )
         
     );
