@@ -1,0 +1,1516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eventme\n"
+"POT-Creation-Date: 2014-07-11 09:23+0700\n"
+"PO-Revision-Date: 2014-07-11 09:24+0700\n"
+"Last-Translator: Ova <contact@ovatheme.com>\n"
+"Language-Team: Ovatheme <contact@ovatheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../blog_template.php:57 ../index.php:54 ../page.php:50
+#: ../single-schedule.php:58 ../single.php:45
+msgid " 0 comment"
+msgstr ""
+
+#: ../blog_template.php:57 ../index.php:54 ../page.php:50
+#: ../single-schedule.php:58 ../single.php:45
+msgid " 1 comment"
+msgstr ""
+
+#: ../blog_template.php:117 ../index.php:114 ../single-schedule.php:149
+#: ../single.php:113
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../blog_template.php:132
+msgid "&raquo;"
+msgstr ""
+
+#: ../blog_template.php:133
+msgid "&laquo;"
+msgstr ""
+
+#: ../comments.php:10
+msgid "0 Comment"
+msgstr ""
+
+#: ../comments.php:10
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:10
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:26
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comment Form"
+msgstr ""
+
+#: ../comments.php:40
+msgid "<h4>"
+msgstr ""
+
+#: ../comments.php:44 ../functions.php:383
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Your Message"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Submit"
+msgstr ""
+
+#: ../functions.php:30 ../functions.php:32
+msgid "Sidebar right"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: ../functions.php:83
+msgid "Secondary Navigation Menu"
+msgstr ""
+
+#: ../functions.php:264
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:273
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:282
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:383
+msgid "Phone: "
+msgstr ""
+
+#: ../functions.php:494 ../framework/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:495 ../framework/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:496 ../framework/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:497
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:508 ../framework/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:509 ../framework/class-tgm-plugin-activation.php:171
+#: ../framework/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:510
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../page.php:64
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: ../single-schedule.php:15
+msgid "Schedule Heading"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/post_type.php:8 ../framework/post_type.php:10
+msgid "Slideshows"
+msgstr ""
+
+#: ../framework/post_type.php:9 ../framework/post_type.php:11
+msgid "Slide"
+msgstr ""
+
+#: ../framework/post_type.php:12
+msgid "Add New slide"
+msgstr ""
+
+#: ../framework/post_type.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/post_type.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/post_type.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/post_type.php:16
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/post_type.php:17
+msgid "All Slides"
+msgstr ""
+
+#: ../framework/post_type.php:18
+msgid "Search Slides"
+msgstr ""
+
+#: ../framework/post_type.php:19
+msgid "Parent Slides:"
+msgstr ""
+
+#: ../framework/post_type.php:20
+msgid "No Slides found."
+msgstr ""
+
+#: ../framework/post_type.php:21
+msgid "No Slides found in Trash."
+msgstr ""
+
+#: ../framework/post_type.php:49 ../framework/post_type.php:50
+#: ../framework/post_type.php:51 ../framework/post_type.php:52
+msgid "Event Register List"
+msgstr ""
+
+#: ../framework/post_type.php:53 ../framework/post_type.php:54
+msgid "Add New Register"
+msgstr ""
+
+#: ../framework/post_type.php:55
+msgid "New Register"
+msgstr ""
+
+#: ../framework/post_type.php:56
+msgid "Edit Register"
+msgstr ""
+
+#: ../framework/post_type.php:57
+msgid "View Register"
+msgstr ""
+
+#: ../framework/post_type.php:58
+msgid "All Registers"
+msgstr ""
+
+#: ../framework/post_type.php:59
+msgid "Search Registers"
+msgstr ""
+
+#: ../framework/post_type.php:60
+msgid "Parent Registers:"
+msgstr ""
+
+#: ../framework/post_type.php:61
+msgid "No Registers found."
+msgstr ""
+
+#: ../framework/post_type.php:62
+msgid "No Registers found in Trash."
+msgstr ""
+
+#: ../framework/post_type.php:90 ../framework/post_type.php:91
+#: ../framework/post_type.php:92
+msgid "Schedule"
+msgstr ""
+
+#: ../framework/post_type.php:93
+msgid "Parent Schedule:"
+msgstr ""
+
+#: ../framework/post_type.php:94
+msgid "All Schedules"
+msgstr ""
+
+#: ../framework/post_type.php:95
+msgid "View Schedule"
+msgstr ""
+
+#: ../framework/post_type.php:96 ../framework/post_type.php:97
+msgid "Add New Schedule"
+msgstr ""
+
+#: ../framework/post_type.php:98
+msgid "Edit Schedule"
+msgstr ""
+
+#: ../framework/post_type.php:99
+msgid "Update Schedule"
+msgstr ""
+
+#: ../framework/post_type.php:100
+msgid "Search Schedules"
+msgstr ""
+
+#: ../framework/post_type.php:101
+msgid "No Schedules found"
+msgstr ""
+
+#: ../framework/post_type.php:102
+msgid "No Schedules found in Trash"
+msgstr ""
+
+#: ../framework/post_type.php:105
+msgid "schedule"
+msgstr ""
+
+#: ../framework/post_type.php:106
+msgid "Schedule information pages"
+msgstr ""
+
+#: ../framework/post_type.php:131 ../framework/post_type.php:132
+#: ../framework/post_type.php:141
+msgid "Skill"
+msgstr ""
+
+#: ../framework/post_type.php:133
+msgid "Search Skills"
+msgstr ""
+
+#: ../framework/post_type.php:134
+msgid "All Skills"
+msgstr ""
+
+#: ../framework/post_type.php:135
+msgid "Parent Skill"
+msgstr ""
+
+#: ../framework/post_type.php:136
+msgid "Parent Skill:"
+msgstr ""
+
+#: ../framework/post_type.php:137
+msgid "Edit Skill"
+msgstr ""
+
+#: ../framework/post_type.php:138
+msgid "Update Skill"
+msgstr ""
+
+#: ../framework/post_type.php:139
+msgid "Add New Skill"
+msgstr ""
+
+#: ../framework/post_type.php:140
+msgid "New Skill Name"
+msgstr ""
+
+#: ../framework/post_type.php:164 ../framework/post_type.php:166
+msgid "Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:165 ../framework/post_type.php:167
+msgid "Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:168 ../framework/post_type.php:169
+msgid "Add New Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:170
+msgid "New Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:171
+msgid "Edit Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:172
+msgid "View Speaker"
+msgstr ""
+
+#: ../framework/post_type.php:173
+msgid "All Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:174
+msgid "Search Speakers"
+msgstr ""
+
+#: ../framework/post_type.php:175
+msgid "Parent Speakers:"
+msgstr ""
+
+#: ../framework/post_type.php:176
+msgid "No Speakers found."
+msgstr ""
+
+#: ../framework/post_type.php:177
+msgid "No Speakers found in Trash."
+msgstr ""
+
+#: ../framework/post_type.php:205 ../framework/post_type.php:207
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/post_type.php:206 ../framework/post_type.php:208
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/post_type.php:209 ../framework/post_type.php:210
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../framework/post_type.php:211
+msgid "New Testimonial"
+msgstr ""
+
+#: ../framework/post_type.php:212
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/post_type.php:213
+msgid "View Testimonial"
+msgstr ""
+
+#: ../framework/post_type.php:214
+msgid "All Testimonials"
+msgstr ""
+
+#: ../framework/post_type.php:215
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/post_type.php:216
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../framework/post_type.php:217
+msgid "No Testimonials found."
+msgstr ""
+
+#: ../framework/post_type.php:218
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: ../framework/shortcode.php:405 ../framework/shortcode.php:666
+msgid "by"
+msgstr ""
+
+#: ../framework/shortcode.php:658
+msgid "0"
+msgstr ""
+
+#: ../framework/shortcode.php:658
+msgid "1"
+msgstr ""
+
+#: ../framework/shortcode.php:761 ../framework/shortcode_slideshow.php:131
+#: ../framework/shortcode_slideshow.php:179
+msgid "Register"
+msgstr ""
+
+#: ../framework/shortcode.php:790
+msgid "get directions"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Years"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Months"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Weeks"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Days"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Hours"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Minutes"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:53
+#: ../framework/shortcode_slideshow.php:89
+msgid "Seconds"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Year"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Month"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Week"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Day"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Hour"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Minute"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:54
+#: ../framework/shortcode_slideshow.php:90
+msgid "Second"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:63
+#: ../framework/shortcode_slideshow.php:66
+#: ../framework/shortcode_slideshow.php:99
+#: ../framework/shortcode_slideshow.php:101
+msgid "Register Now"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:139
+msgid "Name *"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:141
+msgid "Name is required"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:148
+msgid "Email *"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:149
+msgid "Email is required."
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:155
+msgid "Phone"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:156
+msgid "Phone is required."
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:162
+msgid "Message *"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:163
+msgid "Message is required."
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:168
+msgid "Your request send! We will be in touch soon."
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:169
+msgid "Error"
+msgstr ""
+
+#: ../framework/shortcode_slideshow.php:178
+msgid "Close"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:259
+msgid "Default"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/init.php:1177
+msgid "Save"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:32
+msgid "oEmbed Post format media"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:33
+msgid ""
+"Enter a audio, youtube, twitter, or instagram URL. Supports services listed "
+"at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:42
+msgid "Schedule Field"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:50
+#: ../framework/Custom-Metaboxes/metabox-functions.php:51
+msgid "Time"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:56
+#: ../framework/Custom-Metaboxes/metabox-functions.php:57
+msgid "Address"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:67
+msgid "Speaker Field"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:75
+#: ../framework/Custom-Metaboxes/metabox-functions.php:76
+msgid "Job"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:82
+#: ../framework/Custom-Metaboxes/metabox-functions.php:83
+msgid "Mail Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:89
+#: ../framework/Custom-Metaboxes/metabox-functions.php:90
+msgid "Facebook Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:96
+#: ../framework/Custom-Metaboxes/metabox-functions.php:97
+msgid "Twitter Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:103
+#: ../framework/Custom-Metaboxes/metabox-functions.php:104
+msgid "Linkedin Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:110
+#: ../framework/Custom-Metaboxes/metabox-functions.php:111
+msgid "Pinterest Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:116
+#: ../framework/Custom-Metaboxes/metabox-functions.php:117
+msgid "Google Plus Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:122
+#: ../framework/Custom-Metaboxes/metabox-functions.php:123
+msgid "Tumblr Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:128
+#: ../framework/Custom-Metaboxes/metabox-functions.php:129
+msgid "Instagram Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:134
+#: ../framework/Custom-Metaboxes/metabox-functions.php:135
+msgid "VK Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:140
+#: ../framework/Custom-Metaboxes/metabox-functions.php:141
+msgid "Flickr Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:146
+#: ../framework/Custom-Metaboxes/metabox-functions.php:147
+msgid "MySpace Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:152
+#: ../framework/Custom-Metaboxes/metabox-functions.php:153
+msgid "Youtube Adress"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:166
+msgid "SEO Fields"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:174
+msgid "SEO title"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:175
+msgid "Title for SEO (optional)"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:180
+#: ../framework/redux/sample-config.php:287
+msgid "SEO Keywords"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:181
+msgid "SEO keywords (optional)"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:186
+#: ../framework/redux/sample-config.php:280
+msgid "SEO Description"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:187
+msgid "SEO description (optional)"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:196
+msgid "Slideshow Field"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:204
+#: ../framework/Custom-Metaboxes/metabox-functions.php:205
+msgid "End Date"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:210
+msgid "Button Register Link"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:211
+msgid "You can insert a your link else use popup default register"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:216
+msgid "Template"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:217
+msgid "Select an option"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:221
+msgid "Template 1"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/metabox-functions.php:222
+msgid "Template 2"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:212
+msgid "Tags"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:243
+msgid "General Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:249
+msgid "Logo Image"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:250
+msgid "Upload a logo image. The best logo 173x49px"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:257
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:258
+msgid "Upload your Favicon. The best size is 32x32 px"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:265
+msgid "Apple touch icon"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:266
+msgid "Upload your Apple touch icon. The best size is 144x144 px"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:273
+msgid "Google Analytics Javascript"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:274
+msgid ""
+"Insert javascript of Google Analytics. You dont insert <script></script>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:281
+msgid ""
+"Paste your SEO Description. This will be added into the meta tag description "
+"in header"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:282
+msgid "This is seo description"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:288
+msgid ""
+"Paste your SEO Keywords. This will be added into the meta tag keywords in "
+"header"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:289
+msgid "Seo Keywords"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:294
+msgid "Customize Css"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:295
+msgid ""
+"Please dont insert <style></style> here. For instance header{background:"
+"#ccc;}"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:300
+msgid "Customize Jaascript"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:301
+msgid ""
+"Please do not insert <script></script> here. For instance jQuery(document)."
+"ready(function($){\n"
+"<br/>// insert code here<br/>\n"
+"});"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:312
+msgid "Style Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:317
+msgid "Reload Spin"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:318
+msgid "Choose icon or image for reload. You also can choose no reload"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:325
+msgid "Reload Icon"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:327
+msgid ""
+"You can insert FontAwesome here. Find icon font here: <a target=\"_blank\" "
+"href=\"http://fontawesome.io/icons/\">http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:334
+msgid "Reload Image"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:336
+msgid "You can insert an image."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:343
+msgid "Body Font"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:344
+msgid "Select a primary font for site"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:362
+msgid "Font Heading (Option)"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:363
+msgid ""
+"Select a google font heading: h1,h2,h3,h4,h5,h6. <br/> Note To use "
+"nexa_boldregular font, you have to hit Reset Section button."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:380
+msgid "Select layout for page"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:390
+msgid "Select pattern for boxed layout"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:392
+msgid "You should upload an image with format *.png"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:399
+msgid "Select text direction"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:408
+msgid "Select theme color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:416
+msgid "Select menu color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:425
+msgid "Header Sticky Color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:426
+#: ../framework/redux/sample-config.php:438
+#: ../framework/redux/sample-config.php:446
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:437
+msgid "Social Background Color"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:445
+msgid "Parallax Overlay"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:460
+msgid "Blog & Footer Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:465
+msgid "Blog Heading"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:466
+msgid "Insert Blog Heading"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:472
+msgid "Blog Subtitle"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:473
+msgid "Insert Blog Subtitle"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:480
+msgid "Insert Footer"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:483
+msgid ""
+" <div class=\"row\">\n"
+"                            <div class=\"col-sm-12 text-center social-icons"
+"\">\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-facebook\"></i></a>\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-twitter\"></i></a>\n"
+"                                <a class=\"social-icon\" href=\"#\"><i class="
+"\"fa fa-linkedin\"></i></a>\n"
+"                            </div>\n"
+"                            <div class=\"col-sm-12 text-center\">@ 2014 "
+"EventME - An One Page Event Manager Theme | Developed by <a href=\"http://"
+"jakjim.com\">jThemes Studio</a></div>\n"
+"                            </div>\n"
+"                            "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:498
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:503
+msgid "Insert Timezone"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:504
+msgid ""
+"The timezone (hours or minutes from GMT) for the target times. <br/> For "
+"instance:<br/> If Timezone is UTC-9:00 you have to insert -9 <br/>If "
+"Timezone is UTC-9:30, you have to insert -9*60+30=-570. <br/>Read about UTC "
+"Time:  <a href=\"http://en.wikipedia.org/wiki/List_of_UTC_time_offsets\" "
+"target=\"_blank\"> http://en.wikipedia.org/wiki/List_of_UTC_time_offsets</a>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:510
+msgid "Display Format"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:511
+msgid ""
+"Display Format: dHMS. <br/> d: Day <br/> H: Hour <br/> M: Month <br/> S: "
+"Second. <br/>You can insert HMS or dHM or dH. default dHMS"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:517
+msgid "Display Navigation"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:518
+msgid "Allow to display Navigation"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:525
+msgid "Display Register Button"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:526
+msgid "Allow to display Register Button"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:533
+msgid "Slide Count"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:542
+msgid "Schedule Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:547
+msgid "Filter Order By"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:548
+msgid "Display Filter Navigation Order By"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:565
+msgid "Filter Order"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:566
+msgid "Display Filter Navigation  Order"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:577
+msgid "Schedule Order By"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:578
+msgid "Display Schedule Post Order By"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:595
+msgid "Schedule Order"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:596
+msgid "Display Schedule Post Order"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:606
+#: ../framework/redux/sample-config.php:607
+msgid "Display Time"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:614
+#: ../framework/redux/sample-config.php:615
+msgid "Display Address"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:622
+msgid "Display View"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:630
+msgid "Display Author"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:638
+msgid "Character Count dipplay in intro description"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:645
+msgid "Display Description Intro"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:653
+msgid "Item count each tab"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:662
+msgid "Speakers Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:667
+msgid "Display Link to detail Speaker"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:675
+msgid "Count character display in description"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:682
+msgid "Count Item"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:689
+#: ../framework/redux/sample-config.php:748
+msgid "Select layout. Item Count in row"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:706
+msgid "Subscribe Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:712
+msgid "Select background image for subscribe section"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:720
+msgid "Recent Post Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:725
+msgid "Item count display"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:732
+msgid "Description character count"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:739
+msgid "Show author"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:765
+msgid "Twitter Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:770
+msgid "Show twitter User"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:777
+msgid "Consumer key"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:784
+msgid "Consumer key secret"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:791
+msgid "Access token"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:798
+msgid "Access token secret"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:805
+msgid "Show twitter Count"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:812
+msgid "Auto Play"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:813
+msgid "Insert number time (ms) to deplay or false to not auto play"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:821
+msgid "Location Settings"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:827
+msgid "Select background image for Location section"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:841
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:842
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:843
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:847
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../framework/redux/sample-config.php:854
+#: ../framework/redux/sample-config.php:901
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:870
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:871
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../framework/redux/sample-config.php:887
+msgid "Theme Information"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:888
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:912
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:913
+#: ../framework/redux/sample-config.php:919
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:918
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:923
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:943
+#: ../framework/redux/sample-config.php:944
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:1043
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:1045
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../framework/redux/sample-config.php:1049
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
